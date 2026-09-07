@@ -42,13 +42,13 @@
 
 1. Download your chosen styleset file from `themes/`
 2. Move it into `~/.config/aerc/stylesets/`
-3. Add this snippet to `~/.config/aerc/aerc.conf`
-  ```ini
-  [ui]
-  border-char-vertical="│"
-  border-char-horizontal="─"
-  styleset-name=catppuccin-$FLAVOR
-  ```
+3. Add this snippet to your `~/.config/aerc/aerc.conf`
+   ```ini
+   [ui]
+   border-char-vertical=│
+   border-char-horizontal=─
+   styleset-name=evergarden-<variant>
+   ```
 
 ### Thanks to <3
 
